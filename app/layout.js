@@ -1,3 +1,5 @@
+import './globals.css'
+
 export const metadata = {
   title: 'Kyrgyz Dispatch Academy — Free Course',
   description: 'Free dispatcher training — 10 concise presentations. Learn the market, tools, docs, and how to land a job.',
